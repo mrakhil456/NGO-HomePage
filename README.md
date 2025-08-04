@@ -11,6 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+<img width="1573" height="727" alt="Screenshot 2025-08-04 231616" src="https://github.com/user-attachments/assets/5aac9ac6-22c6-4bde-8de9-f3ceba1540da" />
+<img width="1559" height="733" alt="Screenshot 2025-08-04 231702" src="https://github.com/user-attachments/assets/51ef1bb6-414f-4b13-abf9-4398de3210ea" />
+<img width="1559" height="734" alt="Screenshot 2025-08-04 231644" src="https://github.com/user-attachments/assets/b2eb0447-8827-47ed-af75-0f5b8b86a8d7" />
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
@@ -68,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
